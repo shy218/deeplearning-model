@@ -5,6 +5,7 @@ This project is a collection of deep learning model, and I will update it in the
 
 To clone this project, use the following command line:
 ```
+git clone https://github.com/shy218/deeplearning-model.git
 ```
 
 ## Models
@@ -38,3 +39,6 @@ To train the network, you need to extract the trainable parameters. To extract t
 ```
 parameters = net.extract_parameters()
 ```
+
+## License
+`deeplearning-model` is a public work. Feel free to do whatever you want with it.
